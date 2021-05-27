@@ -1,6 +1,6 @@
 ## Privacy policy.
 
-By using the app "Height and Depth" you are consenting to our policies regarding the collection, use and disclosure of personal information set out in this privacy policy.
+By using the app "Height and Depth" you are consenting to our policies regardingcollection, use and disclosure of personal information set out in this privacy policy.
 
 Collection of Personal Information
 We do not collect, store, use or share any information, personal or otherwise.
